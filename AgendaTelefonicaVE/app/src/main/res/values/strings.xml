@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Agenda Telefonica VE</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_contact_phone">Phone Number</string>
+    <string name="button_next">Next</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_back">Back</string>
+    <string name="button_reset">Reset</string>
+    <string name="required">Required.</string>
+    <string name="new_contact">NEW CONTACT</string>
+    <string name="contact_list">CONTACT LIST</string>
+    <string name="FullName">Developed by: Gerardo Jose Villeda Erazo</string>
+
+    <!-- item_contacto_ve -->
+    <string name="text_ID">ID</string>
+    <string name="text_NAME">Nombre</string>
+    <string name="text_PHONE">Numero</string>
+    <string name="text_PROP">Propietario</string>
+    <string name="btn_Update">Update</string>
+    <string name="btn_Delete">Delete</string>
+
+    <string name="txt_contact_list">Contact List</string>
+    <string name="txt_new_contact">New Contact</string>
+
+</resources>
